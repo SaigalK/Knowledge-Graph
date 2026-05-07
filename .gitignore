@@ -1,0 +1,15 @@
+# API ключі — НІКОЛИ не заливати
+config.py
+
+# Бази даних Kuzu (бінарні файли)
+my_first_graph/
+knowledge_graph/
+knowledge_graph_copy/
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
